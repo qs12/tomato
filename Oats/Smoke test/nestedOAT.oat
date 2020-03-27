@@ -1,0 +1,16 @@
+
+
+Scenario: Nested oat navigation
+When I *go to the #artHomePage
+and *click on the #myCartIcon,
+I want to see 2 items in my cart
+
+
+Scenario: Nested oat Sanity test
+On the #Reporting page when I #doubleClick on
+#showAllReport I want to *see all 22 reports
+
+
+
+
+

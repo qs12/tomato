@@ -1,0 +1,14 @@
+Text outside Oat folder
+
+
+Plan:
+
+1. Pull all .oat files - PASS
+2. Break line string into list - PASS
+3. Concatenate lines into one strList based on empty/last line delimiter - PASS
+4. Print whole scenario via a list - PASS
+
+
+5. Delimit by 'Scenario' - pending...
+6. Create reusable *click method - 
+7. Map *click method to '.click()' - 

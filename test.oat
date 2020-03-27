@@ -1,0 +1,7 @@
+This file is outside the OAT FOLDER!
+
+YOU MAY WANNA FAIL IT.
+
+Scenario: Login test
+When I click on the #homeButton I want to see the result
+
